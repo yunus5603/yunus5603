@@ -1,23 +1,28 @@
-![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
+## Hi, I'm Yunus Shaikh 👋
 
-<h1 align="center">Hi 👋, I'm Yunus Shaikh</h1>
-<h3 align="center">Passionate about Data Science and Mathematics 📊🧮</h3>
-<img align="right" alt="Coding" width ="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+GenAI / LLM engineer at Deloitte, Pune. I build production LLM systems (agents, agentic RAG and multimodal generation) served from FastAPI backends on the cloud.
 
-- 🌱 I’m currently learning **NLP, LLM, Fast API.**
+**Highlights from work**
+- **Plan Buddy** · agentic RAG chatbot on Databricks. Breaks down and refines user queries, then routes them to a RAG pipeline over SharePoint documents, a Genie agent over past ServiceNow tickets, or both, citing its sources in every answer.
+- **AI Content Studio** · GenAI platform for a client on Vertex AI. Generates marketing images and videos with Imagen and Veo behind a FastAPI backend, runs long video jobs asynchronously, and benchmarks models with a custom scoring framework.
 
-- 👨‍💻 All of my projects are available at [https://github.com/yunus5603](https://github.com/yunus5603)
+**What I work on**
+- **Agents:** tool-calling agents, agentic RAG, multi-step workflows
+- **RAG & retrieval:** hybrid search, FAISS/HNSW indexes, multimodal RAG
+- **Backend for AI:** FastAPI, async job queues, Docker, Azure, AWS
 
-- 💬 Ask me about **leveraging Data Science to tackle intricate business challenges, transforming raw data into actionable insights, and optimizing solutions that drive strategic decision-making and business growth! 📈💼✨**
+**Currently going deep on:** AWS Strands, Bedrock AgentCore, LangGraph and DSPy
 
-- 📫 How to reach me **syunus838@gmail.com**
+### Featured projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-yunus-shaikh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-yunus-shaikh97" height="30" width="40" /></a>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [AI Shopping Assistant](https://github.com/yunus5603/AI-Shopping-Assistant) | E-commerce chatbot with personalized product recommendations | LangChain, Groq, Docker, GitHub Actions |
+| [AI Recruitment System](https://github.com/yunus5603/AI-Recruitment-System) | Resume parsing, job matching and an AI technical-interview interface | LLMs, full-stack |
+| [ChatSQL](https://github.com/yunus5603/ChatSQL) | Ask questions of SQLite/MySQL databases in plain English | LangChain, Groq, Streamlit |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Stack
+Python · FastAPI · LangChain / LangGraph · AWS (Bedrock) · GCP (Vertex AI) · Azure · Docker · MySQL / PostgreSQL · FAISS
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunus5603&show_icons=true&locale=en&layout=compact" alt="yunus5603" /></p>
+### Contact
+[LinkedIn](https://linkedin.com/in/md-yunus-shaikh97) · syunus838@gmail.com
