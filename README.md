@@ -4,7 +4,7 @@ GenAI / LLM engineer at Deloitte, Pune. I build production LLM systems (agents, 
 
 **Highlights from work**
 - **Plan Buddy** · agentic RAG chatbot on Databricks. Breaks down and refines user queries, then routes them to a RAG pipeline over SharePoint documents, a Genie agent over past ServiceNow tickets, or both, citing its sources in every answer.
-- **AI Content Studio** · GenAI platform for a client on Vertex AI. Generates marketing images and videos with Imagen and Veo behind a FastAPI backend, runs long video jobs asynchronously, and benchmarks models with a custom scoring framework.
+- **Client content-generation platform** · GenAI platform for a client on Vertex AI. Generates marketing images and videos with Imagen and Veo behind a FastAPI backend, runs long video jobs asynchronously, and benchmarks models with a custom scoring framework.
 
 **What I work on**
 - **Agents:** tool-calling agents, agentic RAG, multi-step workflows
@@ -17,8 +17,8 @@ GenAI / LLM engineer at Deloitte, Pune. I build production LLM systems (agents, 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [AI Content Studio](https://github.com/yunus5603/ai-content-studio) | Image and video generation studio with an agent Copilot that plans multi-step jobs and shows the price before running them | FastAPI, Next.js, Vertex AI (Veo, Gemini), OpenAI, Cloud Run |
 | [AI Shopping Assistant](https://github.com/yunus5603/AI-Shopping-Assistant) | E-commerce chatbot with personalized product recommendations | LangChain, Groq, Docker, GitHub Actions |
-| [AI Recruitment System](https://github.com/yunus5603/AI-Recruitment-System) | Resume parsing, job matching and an AI technical-interview interface | LLMs, full-stack |
 | [ChatSQL](https://github.com/yunus5603/ChatSQL) | Ask questions of SQLite/MySQL databases in plain English | LangChain, Groq, Streamlit |
 
 ### Stack
